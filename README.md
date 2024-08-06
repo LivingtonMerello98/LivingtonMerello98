@@ -67,7 +67,7 @@ Sentiti libero di esplorare i miei progetti e non esitare a contattarmi se hai d
 ## Contatti 📧
 
 - Email: [livington.merello@gmail.com](livington.merello@gmail.com)
-- LinkedIn: [Livington Merello](livington.merello@gmail.com)
+- LinkedIn: [Livington Merello](www.linkedin.com/in/livington-merello-765b1a215)
 - Behance: [@Livington Merello](https://www.behance.net/merellodesigns)
 
 
