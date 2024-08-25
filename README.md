@@ -1,17 +1,17 @@
 
 ![Linkedin Banner](https://media.licdn.com/dms/image/D4D16AQGiENlQadErBg/profile-displaybackgroundimage-shrink_350_1400/0/1704482974233?e=1728518400&v=beta&t=9pOo7S2gNPLgPl4vgq2Q1MtE-P2ixCgiSV7rX9bV5-U)
 
-# Benvenuto nel mio Profilo GitHub! 🚀
+# Benvenuto nel mio GitHub! 🚀
 
 ![GitHub followers](https://img.shields.io/github/followers/LivingtonMerello98?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/LivingtonMerello98?style=social)
 
 
-Ciao! Sono Livington, un Junior Fullstack Developer con competenze sia lato frontend che backend. Mi piace lavorare su progetti che ritengo interessanti 
-e che arricchiscono il mio portfolio. Grazie per visitare il mio profilo GitHub!
-- 💻 Lavoro principalmente con **Javascript**,**Vue.js**, **PHP** e **Laravel**
+Ciao! Sono Livington, un Junior Fullstack Developer. Mi piace mettere le mani sia sul frontend che sul backend, cercando sempre di imparare qualcosa di nuovo con ogni progetto. Il mio GitHub è il posto dove condivido i miei lavori, frutto della mia curiosità e delle sfide che mi appassionano. Se sei qui, spero che trovi qualcosa di interessante. Grazie per dare un’occhiata!
+
+- 💻 Lavoro principalmente con **Javascript**,**Vue.js**, **PHP** e cerco di cavarmel con **Laravel**
 - 🌱 Attualmente sto imparando **React** e approfondendo **Laravel**
-- 🎨 Ho anche competenze da **Web Designer** lavorando principalmente con Figma, ecco il mio profilo Behance: https://www.behance.net/merellodesigns
+- 🎨 Ho anche competenze da **Web Designer** lavorando principalmente con Figma, Ps e IA, ecco il mio profilo Behance: https://www.behance.net/merellodesigns
 - 💬 Chiedimi di **Web Development** e **Web Design**
 
 Sentiti libero di esplorare i miei progetti e non esitare a contattarmi se hai domande o suggerimenti. Buona navigazione!✨
