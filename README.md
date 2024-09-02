@@ -1,5 +1,5 @@
 
-![Linkedin Banner](https://media.licdn.com/dms/image/D4D16AQGiENlQadErBg/profile-displaybackgroundimage-shrink_350_1400/0/1704482974233?e=1728518400&v=beta&t=9pOo7S2gNPLgPl4vgq2Q1MtE-P2ixCgiSV7rX9bV5-U)
+![Linkedin Banner]([https://media.licdn.com/dms/image/D4D16AQGiENlQadErBg/profile-displaybackgroundimage-shrink_350_1400/0/1704482974233?e=1728518400&v=beta&t=9pOo7S2gNPLgPl4vgq2Q1MtE-P2ixCgiSV7rX9bV5-U](https://media.licdn.com/dms/image/v2/D4D16AQFXmIAo4SL8-A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725286047360?e=1730937600&v=beta&t=z_1fEzZm6M6olKnnp_VF6CzjbZ363SXMrU4ajShN5Ec))
 
 # Benvenuto nel mio GitHub! 🚀
 
