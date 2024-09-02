@@ -1,6 +1,35 @@
 
 [![Linkedin Banner](https://media.licdn.com/dms/image/v2/D4D16AQFXmIAo4SL8-A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725286047360?e=1730937600&v=beta&t=z_1fEzZm6M6olKnnp_VF6CzjbZ363SXMrU4ajShN5Ec)](https://www.linkedin.com/)
 
+
+<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-size: 30px;
+      fill: #333;
+      animation: moveText 3s ease-in-out infinite;
+    }
+
+    @keyframes moveText {
+      0% {
+        opacity: 0;
+        transform: translateX(-100%);
+      }
+      50% {
+        opacity: 1;
+        transform: translateX(0%);
+      }
+      100% {
+        opacity: 0;
+        transform: translateX(100%);
+      }
+    }
+  </style>
+
+  <text x="50%" y="50%" text-anchor="middle" class="text">Benvenuto nel mio GitHub!</text>
+</svg>
+
+
 # Benvenuto nel mio GitHub! 🚀
 
 ![GitHub followers](https://img.shields.io/github/followers/LivingtonMerello98?style=social)
