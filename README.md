@@ -32,6 +32,7 @@ Sentiti libero di esplorare i miei progetti e non esitare a contattarmi se hai d
 | SCSS        | ![SCSS Logo](https://img.shields.io/badge/SCSS-000000?style=flat&logo=sass&logoColor=CC6699) | Medio           |
 | JavaScript  | ![JavaScript Logo](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E) | Intermedio             |
 | Vue.js      | ![Vue.js Logo](https://img.shields.io/badge/Vue.js-000000?style=flat&logo=vue.js&logoColor=4FC08D) | Intermedio           |
+| React       | ![React Logo](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB) | Principiante         |
 | Bootstrap   | ![Bootstrap Logo](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C) | Intermedio           |
 | Tailwind    | ![Tailwind Logo](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwindcss&logoColor=38B2AC) | Intermedio           |
 
@@ -44,6 +45,7 @@ Sentiti libero di esplorare i miei progetti e non esitare a contattarmi se hai d
 | Laravel     | ![Laravel Logo](https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20) | Intermedio           |
 | MySQL       | ![MySQL Logo](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=00758F) | Principiante           |
 | phpMyAdmin  | ![phpMyAdmin Logo](https://img.shields.io/badge/phpMyAdmin-000000?style=flat&logo=phpmyadmin&logoColor=0064A0) | Principiante           |
+
 
 
 <!---
