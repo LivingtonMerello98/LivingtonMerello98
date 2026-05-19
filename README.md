@@ -1,84 +1,56 @@
+# Livington Merello — Fullstack Developer
 
-![Linkedin Banner](https://media.licdn.com/dms/image/v2/D4D16AQGikwe6YGL6sA/profile-displaybackgroundimage-shrink_350_1400/B4DZqycbEsGQAg-/0/1763930392199?e=1769040000&v=beta&t=OaV_r1RSVRURqpgnxQ4vHKZEnVv9VQrCbD1PR26KMvI)
+Milano, IT
 
+Sviluppatore fullstack con esperienza concreta su progetti legacy e greenfield, in produzione per clienti reali. Lavoro quotidianamente su stack PHP/MySQL in ambienti e-commerce complessi, e in parallelo su un'agenzia web dove seguo sviluppo frontend e backend per clienti diversi. Il mio punto di forza è la capacità di entrare in codebase esistenti, capire cosa succede e portare a casa il risultato.
 
-# Benvenuto nel mio GitHub! 🚀
+---
 
-![GitHub followers](https://img.shields.io/github/followers/LivingtonMerello98?style=social)
-![GitHub stars](https://img.shields.io/github/stars/LivingtonMerello98?style=social)
+## Stack
 
+**Backend — uso quotidiano**
 
-Ciao! Sono Livington, un Junior Fullstack Developer. Mi piace mettere le mani sia sul frontend che sul backend, cercando sempre di imparare qualcosa di nuovo con ogni progetto. Il mio GitHub è il posto dove condivido i miei lavori, frutto della mia curiosità e delle sfide che mi appassionano. Se sei qui, spero che trovi qualcosa di interessante. Grazie per dare un’occhiata!
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL/MariaDB-000000?style=flat&logo=mysql&logoColor=00758F)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
 
-- 💻 Lavoro principalmente con **Javascript**,**Vue.js**, **PHP** e cerco di cavarmel con **Laravel**
-- 🌱 Attualmente sto imparando **React** e approfondendo **Laravel**
-- 🎨 Ho anche competenze da **Web Designer** lavorando principalmente con Figma, Ps e IA, ecco il mio profilo Behance: https://www.behance.net/merellodesigns
-- 💬 Chiedimi di **Web Development** e **Web Design**
+**Frontend — uso regolare**
 
-Sentiti libero di esplorare i miei progetti e non esitare a contattarmi se hai domande o suggerimenti. Buona navigazione!✨
+![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS/SCSS-000000?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat&logo=vue.js&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwindcss&logoColor=38B2AC)
+![React](https://img.shields.io/badge/React_(in_apprendimento)-000000?style=flat&logo=react&logoColor=61DAFB)
 
+**Integrazione e ambienti**
 
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=flat&logo=wordpress&logoColor=21759B)
+![Stripe](https://img.shields.io/badge/Stripe-000000?style=flat&logo=stripe&logoColor=635BFF)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
 
+---
 
+## Cosa faccio davvero
 
-## Tecnologie e Framework 💻🖱️👨‍💻
+- Mantengo e estendo **piattaforme e-commerce in produzione** — logica ordini, listini, carrello, batch report
+- Riscrivo componenti legacy (es. eseguibili C → PHP) mantenendo compatibilità con flussi esistenti
+- Gestisco **logica fiscale/contabile italiana** (provvigioni, fatturazione, codice fiscale)
+- Integro API di terze parti (Stripe, Pipedrive, SMTP transazionale) in contesti WordPress e PHP custom
+- Sviluppo in autonomia un **gestionale completo** con Laravel + Vue.js + PostgreSQL
+- Progetto UI con Figma e sviluppo frontend su progetti agency
 
-**Frontend**
+---
 
-| Tecnologia  | Logo                                                                 | Livello di Expertise |
-|-------------|----------------------------------------------------------------------|----------------------|
-| HTML        | ![HTML Logo](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=E34F26) | Avanzato             |
-| CSS         | ![CSS Logo](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=1572B6)  | Medio             |
-| SCSS        | ![SCSS Logo](https://img.shields.io/badge/SCSS-000000?style=flat&logo=sass&logoColor=CC6699) | Medio           |
-| JavaScript  | ![JavaScript Logo](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E) | Intermedio             |
-| Vue.js      | ![Vue.js Logo](https://img.shields.io/badge/Vue.js-000000?style=flat&logo=vue.js&logoColor=4FC08D) | Intermedio           |
-| React       | ![React Logo](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB) | Principiante         |
-| Bootstrap   | ![Bootstrap Logo](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C) | Intermedio           |
-| Tailwind    | ![Tailwind Logo](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwindcss&logoColor=38B2AC) | Intermedio           |
+## Progetto personale in corso
 
+Riscrittura di un gestionale per studi contabili: da PHP/MySQL procedurale a **Laravel + Vue.js + PostgreSQL**. Architettura, UI e logica business interamente mia.
 
-**Backend**
+---
 
-| Tecnologia  | Logo                                                                 | Livello di Expertise |
-|-------------|----------------------------------------------------------------------|----------------------|
-| PHP         | ![PHP Logo](https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=777BB4) | Medio             |
-| Laravel     | ![Laravel Logo](https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20) | Intermedio           |
-| MySQL       | ![MySQL Logo](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=00758F) | Principiante           |
-| phpMyAdmin  | ![phpMyAdmin Logo](https://img.shields.io/badge/phpMyAdmin-000000?style=flat&logo=phpmyadmin&logoColor=0064A0) | Principiante           |
+## Contatti
 
-
-
-<!---
-## Progetti in evidenza
-
-
-**Frontend**
-
-1. **Vue Boolzap**
-   - Progetto sviluppato in **Vite** e **Vue.Js**, lato frontend emula l'applicazione Whatsapp progettato con metodologia **Mobile First**.
-   - [Link al progetto](https://github.com/utente/progetto1)
-
-
-**Backend**
-
-2. **Progetto 2**
-   - Descrizione del progetto.
-   - [Link al progetto](https://github.com/utente/progetto2)
--->
-
-
-## Contatti 📧
-
-- Email: [livington.merello@gmail.com](livington.merello@gmail.com)
-- LinkedIn: [Livington Merello](https://www.linkedin.com/in/livington-merello-765b1a215)
-- Behance: [@Livington Merello](https://www.behance.net/merellodesigns)
-
-
-
-
-
-
-<!---
-LivingtonMerello98/LivingtonMerello98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📧 [livington.merello@gmail.com](mailto:livington.merello@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/livington-merello-765b1a215)
+- 🎨 [Behance](https://www.behance.net/merellodesigns)
